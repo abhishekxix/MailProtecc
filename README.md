@@ -1,5 +1,6 @@
 # MailProtecc-Forwarding api
-![apibanner](https://user-images.githubusercontent.com/54775196/114238492-52edcd00-99a2-11eb-823a-fcde0b382b6f.png)
+![apibanner](Images/Banner.png)
+
 
 This is the Node REST API for Mail safe application.This was build and used for initial proof of concept and testing purpose.  
 
